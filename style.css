@@ -9,3 +9,13 @@ body {
 .jumbotron {
   text-align: center;
 }
+dl.teaching{
+ margin-top: 5px;
+ margin-bottom: 5px;
+}
+dl.teaching dt{
+ width: 110px;
+}
+dl.teaching dd{
+ margin-left: 130px;
+}
